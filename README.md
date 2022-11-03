@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+If you're looking for Bonial's open source repositories, check out the [`Bonial-International-GmbH` organization](https://github.com/Bonial-International-GmbH/).
+
+This particular place here is boring and cold 🥶.
+
 <!--
 **bonial/bonial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
